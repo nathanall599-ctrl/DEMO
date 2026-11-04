@@ -1,2 +1,2 @@
 # DEMO
-Web
+web pencatatan perkuliahan jurusan teknik mesin
